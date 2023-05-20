@@ -1,26 +1,24 @@
--i https://pypi.org/simple
+blinker
 
-blinker ; python_version >= '3.7'
+click
 
-click ; python_version >= '3.7'
+colorama
 
-colorama ; platform_system == 'Windows'
-
-dnspython ; python_version >= '3.7'
+dnspython
 
 flask
 
-itsdangerous==2.1.2 ; python_version >= '3.7'
+itsdangerous
 
-jinja2==3.1.2 ; python_version >= '3.7'
+jinja2
 
-markupsafe==2.1.2 ; python_version >= '3.7'
+markupsafe
 
-pymongo[srv]==4.3.3
+pymongo[srv]
 
-python-dotenv==1.0.0
+python-dotenv
 
-werkzeug==2.3.4 ; python_version >= '3.8'
+werkzeug
 
 gunicorn
 
